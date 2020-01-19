@@ -11,4 +11,4 @@ services:
     depends_on:
       - db
   db:
-    image: postgres:11
+    image: postgres:12
